@@ -1,7 +1,7 @@
 
 # Cub3D
 
-![Cub3D Cover](imgs/cover-cub3d-bonus.png)
+![Cub3D Cover](img/cover-cub3d-bonus.png)
 
 Welcome to **Cub3D**, our 3D maze exploration project inspired by the classic Wolfenstein experience. This endeavor at 42 Berlin challenged us to dive into **ray-casting**, **mathematics**, and **low-level graphics programming**. Working as a team, we built a first-person view of a maze using C, the MiniLibX library, and clever algorithms. Along the way, we deepened our understanding of computer graphics, event handling, and process management.
 
