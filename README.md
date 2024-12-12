@@ -113,5 +113,5 @@ We welcome contributions! If you’d like to suggest improvements, fix bugs, or 
 ---
 
 
-**Thank you for exploring Cub3D!**  
+**Thank you for exploring Cub3D! 🧊**  
 We hope our experience inspires you to delve deeper into graphics programming, game development, and the art of turning math into magic on the screen.
